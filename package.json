@@ -9,7 +9,7 @@
     "jquery": "3.5.0",
     "express": "4.16.0",
     "boom": "",
-    "tinymce": "4.2.3",
+    "tinymce": "4.9.11",
     "console-io": "2.7.10",
     "angular": "1.8.0",
     "nodejs-repo-tools": "git+https://github.com/GoogleCloudPlatform/nodejs-repo-tools.git#bbbb6035d77671eb053dbe6b6f0e3ff983f79639",
